@@ -2,7 +2,7 @@
 title: "さまざまな場所で公開した記事を集約するホームページを作る"
 emoji: "🔖"
 type: "tech"
-topics: []
+topics: [GitHub]
 published: false
 --- 
 みなさん、記事やブログを書いてますか？
