@@ -14,3 +14,5 @@ published: false
 まずはそのようなホームページをどこで作るか決めましょう。
 今回、僕はGitHubが提供する「[GitHub Pages](https://docs.github.com/ja/pages)」を使いました。
 これは、GitHub上で作成したソースコードをホームページとして公開できるようにするサービスです。
+このサービスの特徴として、[Jekyll](https://jekyllrb-ja.github.io/)という静的サイトのジェネレータが使えるという点が挙げられます。
+Jekyllの使い方は別の記事を参照してください。
